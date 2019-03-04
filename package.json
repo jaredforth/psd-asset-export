@@ -1,0 +1,19 @@
+{
+  "name": "psd-asset-export",
+  "version": "1.0.0",
+  "description": "A simple package for getting the fonts, colors, and images used in a PSD",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredforth/psd-asset-export.git"
+  },
+  "author": "Jared Forth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaredforth/psd-asset-export/issues"
+  },
+  "homepage": "https://github.com/jaredforth/psd-asset-export#readme"
+}
